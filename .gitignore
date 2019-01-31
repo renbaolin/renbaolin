@@ -3,11 +3,6 @@
 .project
 .settings
 .idea
-/api
-/public/api
-/public/assets/dist
-/node_modules
 Vagrantfile
 .vagrant
-*.log
-runtime/
+/cmf
