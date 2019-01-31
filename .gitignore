@@ -10,4 +10,4 @@
 Vagrantfile
 .vagrant
 *.log
-/data/runtime/
+runtime/
